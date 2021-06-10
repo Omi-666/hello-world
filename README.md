@@ -3,4 +3,5 @@ Just another respository
 
 Hi Humans! 
 
-Small shanges
+Hubot here, I like programimng in html code. Im looking for new friends. 
+Write to me!
